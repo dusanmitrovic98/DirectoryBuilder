@@ -16,3 +16,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         "Textures",
         "Audio",
         "Animations",
+        "Fonts",
