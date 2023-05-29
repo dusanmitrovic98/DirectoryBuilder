@@ -28,3 +28,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         GetWindow<DirectoryTreeCreatorWindow>("Directory Tree Creator");
     }
 
+    private void OnGUI()
