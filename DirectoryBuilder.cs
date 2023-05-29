@@ -22,3 +22,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         "DemoScenes"
     }; // Array of folder paths
 
+    [MenuItem("Window/Directory Tree Creator")]
