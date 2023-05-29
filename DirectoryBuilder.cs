@@ -39,3 +39,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         GUILayout.Space(10f);
 
         if (GUILayout.Button("Create Directory Tree"))
+        {
