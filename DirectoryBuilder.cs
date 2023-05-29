@@ -53,3 +53,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
             if (!AssetDatabase.IsValidFolder(currentPath))
             {
                 AssetDatabase.CreateFolder(Path.GetDirectoryName(currentPath), Path.GetFileName(currentPath));
+                Debug.Log("Created Directory: " + currentPath);
