@@ -55,3 +55,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
                 AssetDatabase.CreateFolder(Path.GetDirectoryName(currentPath), Path.GetFileName(currentPath));
                 Debug.Log("Created Directory: " + currentPath);
             }
+        }
