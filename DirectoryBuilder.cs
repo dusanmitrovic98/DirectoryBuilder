@@ -58,3 +58,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         }
 
         AssetDatabase.Refresh();
+        Debug.Log("Directory Tree Creation Complete!");
