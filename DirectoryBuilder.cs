@@ -48,3 +48,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
     {
         foreach (string folderPath in folderPaths)
         {
+            string currentPath = Path.Combine(baseFolder, folderPath);
