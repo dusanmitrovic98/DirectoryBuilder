@@ -13,3 +13,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         "Models",
         "Prefabs",
         "Scripts",
+        "Textures",
