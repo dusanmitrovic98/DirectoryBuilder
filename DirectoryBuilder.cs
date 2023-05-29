@@ -37,3 +37,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         baseFolder = EditorGUILayout.TextField("Base Folder Path:", baseFolder);
 
         GUILayout.Space(10f);
+
