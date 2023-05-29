@@ -50,3 +50,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         {
             string currentPath = Path.Combine(baseFolder, folderPath);
 
+            if (!AssetDatabase.IsValidFolder(currentPath))
