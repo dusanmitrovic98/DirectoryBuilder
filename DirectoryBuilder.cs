@@ -57,3 +57,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
             }
         }
 
+        AssetDatabase.Refresh();
