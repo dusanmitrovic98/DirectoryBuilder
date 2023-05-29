@@ -21,3 +21,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         "Documentation",
         "DemoScenes"
     }; // Array of folder paths
+
