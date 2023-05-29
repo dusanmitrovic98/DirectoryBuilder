@@ -15,3 +15,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         "Scripts",
         "Textures",
         "Audio",
+        "Animations",
