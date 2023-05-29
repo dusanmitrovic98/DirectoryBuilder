@@ -8,3 +8,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
 
     private string[] folderPaths = new string[]
     {
+        "Editor",
