@@ -19,3 +19,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         "Fonts",
         "Shaders",
         "Documentation",
+        "DemoScenes"
