@@ -47,3 +47,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
     private void CreateDirectoryTree()
     {
         foreach (string folderPath in folderPaths)
+        {
