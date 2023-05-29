@@ -23,3 +23,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
     }; // Array of folder paths
 
     [MenuItem("Window/Directory Tree Creator")]
+    public static void ShowWindow()
