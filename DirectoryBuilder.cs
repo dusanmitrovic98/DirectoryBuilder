@@ -44,3 +44,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
         }
     }
 
+    private void CreateDirectoryTree()
