@@ -56,3 +56,4 @@ public class DirectoryTreeCreatorWindow : EditorWindow
                 Debug.Log("Created Directory: " + currentPath);
             }
         }
+
